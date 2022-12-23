@@ -1,0 +1,3 @@
+function InternetLatency
+
+end
