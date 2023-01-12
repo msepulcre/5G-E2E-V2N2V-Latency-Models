@@ -56,3 +56,6 @@ The $l_{E2E}$ can be computed for the following 5G network deployments:
 
 ## Contact 
 Feel free to contact the corresponding authors Dr. Baldomero Coll-Perales (bcoll@umh.es) if you have any question on the evolution of these models.
+
+## Licence 
+This code is licenced under the GNU GPLv2 license.
